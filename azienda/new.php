@@ -1,6 +1,8 @@
 <?php
 require ("../common/class/core.php");
+
 ?>
+<!-- prova commento-->
 <!DOCTYPE html>
 <html lang="it">
   <head>
